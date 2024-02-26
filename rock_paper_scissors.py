@@ -29,7 +29,7 @@ while True:
          print("You won!")
          user_wins += 1
 
-else:
+    else:
          print("you lost")
          computer_wins += 1 
      
